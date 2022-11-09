@@ -187,4 +187,5 @@ export class JogoVelhaComponent implements OnInit {
         confirm(this.jogador1 + " vs " + this.jogador2)
     }
    
+    
 }
