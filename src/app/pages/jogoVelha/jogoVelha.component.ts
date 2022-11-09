@@ -186,4 +186,5 @@ export class JogoVelhaComponent implements OnInit {
     exibirPlacar(){
         confirm(this.jogador1 + " vs " + this.jogador2)
     }
+    
 }
