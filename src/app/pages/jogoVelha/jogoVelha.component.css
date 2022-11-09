@@ -1,0 +1,18 @@
+.board-oldWoman{
+    width: 300px;
+    height: 300px;
+    border: solid 1px black;
+}
+
+.line{
+    height:100px;
+    border-bottom: solid 1px;
+}
+
+.position{
+    width:99px;
+    height:100%;
+    border-right: solid 1px;
+    float:left;
+}
+
